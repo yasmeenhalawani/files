@@ -1,0 +1,8 @@
+key_name = "yasmeen"
+ami = "ami-0dba2cb6798deb6d8"
+region = "us-east-1"
+instance_type = "t3a.medium"
+jenkins_server_secgr = "clinic-jenkins-server-secgr"
+jenkins-server-tag = "Jenkins Server of clinic"
+jenkins-profile = "clinic-jenkins-server-profile"
+jenkins-role = "clinic-jenkins-server-role"
